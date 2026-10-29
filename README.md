@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-E--Book+Reader-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Ebook+Reader-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Aquile Reader Free Installer** — Aquile Reader is a modern e-book reader for Windows 10 and Windows 11 that supports EPUB, PDF, MOBI, and CBZ formats. Works without internet access, no account required. Full offline installation.
+**💻 Aquile Reader Free Installer** — Aquile Reader is a free Windows ebook reader from Microsoft Store supporting EPUB, MOBI, PDF, and CBZ formats. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Aquile Reader
 
-Aquile Reader is a modern e-book reader for Windows 10 and Windows 11 that supports EPUB, PDF, MOBI, and CBZ formats. Featuring a sleek, modern interface with customizable themes, fonts, and reading layouts, Aquile Reader offers a comfortable reading experience. It supports touch input, making it well-suited for Windows tablets and hybrid devices.
+Aquile Reader is a free Windows ebook reader from Microsoft Store supporting EPUB, MOBI, PDF, and CBZ formats. It provides a clean, modern Windows design with annotation support, night mode, and reading progress sync via Microsoft account.
 
 ---
 
 ## ❌ Problem: Aquile Reader is hard to access
 
-- **Windows Only** — No macOS or cross-platform version
-- **Limited Annotation** — Note-taking features less comprehensive than dedicated study tools
-- **Store Distribution** — Primary distribution through Microsoft Store
-- **DRM Limitation** — Cannot open encrypted/DRM-protected content
+- **Windows Only** — Not available on macOS, Linux, or mobile
+- **Development Status** — Update cadence has slowed since initial release
+- **Basic Features** — Missing advanced features for serious readers or academic annotation workflows
+- **Microsoft Account** — Progress sync requires Microsoft account sign-in
 
 ---
 
@@ -121,7 +121,7 @@ Aquile Reader is a modern e-book reader for Windows 10 and Windows 11 that suppo
 
 ---
 
-**Aquile Reader Free Installer** — Aquile Reader is a modern e-book reader for Windows 10 and Windows 11 that supports EPUB, PDF, MOBI, and CBZ formats. Install without internet connection today!
+**Aquile Reader Free Installer** — Aquile Reader is a free Windows ebook reader from Microsoft Store supporting EPUB, MOBI, PDF, and CBZ formats. Install without internet connection today!
 
 <div align="center">
 
